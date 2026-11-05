@@ -1,2 +1,2 @@
 # hitmaker
-Security cnxmd test (Se o SOC pegou isso, chama no slack antes de me banir do github)
+Security nxndmdcnxmd test (Se o SOC pegou isso, chama no slack antes de me banir do github)
